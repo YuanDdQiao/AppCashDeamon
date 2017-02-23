@@ -80,5 +80,11 @@ namespace AppCash
                     return base.ProcessCmdKey(ref msg, keyData);
             }
         }
+
+        private void panelEx1_Click(object sender, EventArgs e)
+        {
+
+
+        }
     }
 }
