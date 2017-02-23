@@ -1,0 +1,10 @@
+D:\研究学习\2013\郭志强\收银2\Code\Code\AppCash\Model\bin\Debug\Model.dll
+D:\研究学习\2013\郭志强\收银2\Code\Code\AppCash\Model\bin\Debug\Model.pdb
+D:\研究学习\2013\郭志强\收银2\Code\Code\AppCash\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\研究学习\2013\郭志强\收银2\Code\Code\AppCash\Model\obj\Debug\Model.dll
+D:\研究学习\2013\郭志强\收银2\Code\Code\AppCash\Model\obj\Debug\Model.pdb
+D:\微云网盘\99960260\项目\收银\代码\AppCash\Model\bin\Debug\Model.dll
+D:\微云网盘\99960260\项目\收银\代码\AppCash\Model\bin\Debug\Model.pdb
+D:\微云网盘\99960260\项目\收银\代码\AppCash\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\微云网盘\99960260\项目\收银\代码\AppCash\Model\obj\Debug\Model.dll
+D:\微云网盘\99960260\项目\收银\代码\AppCash\Model\obj\Debug\Model.pdb
